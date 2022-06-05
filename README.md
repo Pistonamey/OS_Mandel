@@ -1,5 +1,6 @@
 # OS_Mandel
 Operating Systems Linux code to create Mandelbrot images using threads and reduce the time to create those images.
+
 Output images
 ![mandelz](https://user-images.githubusercontent.com/83175234/172037115-2d8a6400-acb5-44e0-8935-ad480c10cfe8.png)
 ![mandel2](https://user-images.githubusercontent.com/83175234/172037174-ed6398f3-867b-4072-8752-690e93635830.png)
